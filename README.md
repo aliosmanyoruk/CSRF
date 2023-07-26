@@ -1,5 +1,3 @@
-Tabii, aşağıdaki README.md dosyasını GitHub projeniz için kullanabilirsiniz:
-
 ## CSRF Detector
 
 This project is a CSRF detector that can be used to automatically detect CSRF vulnerabilities in web applications. The detector is written in HTML, CSS, and JavaScript and can be used with any web browser.
